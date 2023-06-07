@@ -1,0 +1,247 @@
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|ff,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	key : 8
+	keyDiff : [ff,00,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,14} = 2^{126,14}
+	data complexity : DataComplexity = 2^{80}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,ff,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,ff,ff,00]
+	key : 8
+	keyDiff : [ff,00,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,16} = 2^{126,16}
+	data complexity : DataComplexity = 2^{72}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,ff,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,ff,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|ff,00,ff,00|00,00,00,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,16} = 2^{126,16}
+	data complexity : DataComplexity = 2^{72}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|ff,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|ff,00,ff,00|00,00,00,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,16} = 2^{126,16}
+	data complexity : DataComplexity = 2^{80}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|ff,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,ff,ff,00]
+	key : 8
+	keyDiff : [ff,00,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,16} = 2^{126,16}
+	data complexity : DataComplexity = 2^{80}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,ff|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,ff,ff,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,16} = 2^{126,16}
+	data complexity : DataComplexity = 2^{96}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,ff|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|ff,00,ff,00|00,00,00,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,16} = 2^{126,16}
+	data complexity : DataComplexity = 2^{96}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|ff,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,ff,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|ff,00,ff,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,21} = 2^{126,21}
+	data complexity : DataComplexity = 2^{80}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	key : 8
+	keyDiff : [ff,00,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,24} = 2^{126,24}
+	data complexity : DataComplexity = 2^{64}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|ff,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,24} = 2^{126,24}
+	data complexity : DataComplexity = 2^{80}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,ff|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,24} = 2^{126,24}
+	data complexity : DataComplexity = 2^{96}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,ff,ff,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,26} = 2^{126,26}
+	data complexity : DataComplexity = 2^{64}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|ff,00,ff,00|00,00,00,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,26} = 2^{126,26}
+	data complexity : DataComplexity = 2^{64}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,ff,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,ff,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,ff,ff,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,31} = 2^{126,31}
+	data complexity : DataComplexity = 2^{72}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,ff,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,ff,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	key : 8
+	keyDiff : [00,ff,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,31} = 2^{126,31}
+	data complexity : DataComplexity = 2^{80}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|ff,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,ff,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,ff,ff,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,31} = 2^{126,31}
+	data complexity : DataComplexity = 2^{80}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,ff]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,ff,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	key : 8
+	keyDiff : [00,ff,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,31} = 2^{126,31}
+	data complexity : DataComplexity = 2^{96}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,00,00|ff,00,ff,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,33} = 2^{126,33}
+	data complexity : DataComplexity = 2^{64}
+Biclique{
+	deltas :
+	key : 8
+	keyDiff : [00,00,00,00|00,00,00,00|00,00,ff,00|00,00,00,00]
+	
+	nablas :
+	key : 8
+	keyDiff : [00,ff,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	key : 8
+	keyDiff : [00,ff,ff,00|00,00,00,00|00,00,00,00|00,00,00,00]
+	
+	time complexity : TimeComplexity = 2^{104} * 2^{22,40} = 2^{126,40}
+	data complexity : DataComplexity = 2^{72}
